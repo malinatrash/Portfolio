@@ -10,6 +10,7 @@ import {
 	Tech,
 	Works,
 } from './components'
+
 const App = () => {
 	return (
 		<BrowserRouter>
